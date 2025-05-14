@@ -1,0 +1,7 @@
+# Docker volumes (por si montas carpetas locales en el futuro)
+wordpress_data/
+db_data/
+
+# Archivos sensibles (si los usas más adelante)
+.env
+*.env
